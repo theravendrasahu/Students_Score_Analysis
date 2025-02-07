@@ -5,11 +5,7 @@ This notebook analyzes students' scores in Math, Reading, and Writing, exploring
 
 ## 🔍 Key Findings
 
-### 1. Gender Distribution
-The dataset contains more female students than male students.
-Gender-based score comparison shows slight variation, but no drastic differences.
-
-### 2. Parental Education Impact
+### 1. Parental Education Impact
 Students whose parents have a higher level of education tend to score better in all subjects.
 There is a positive correlation between parental education and student performance.
 
